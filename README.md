@@ -8,7 +8,7 @@ This project focuses on classifying brain tumor MRI images into 44 different cla
 ## Dataset
 - **Source:** [Brain Tumor MRI Images](https://www.kaggle.com/datasets/fernando2rad/brain-tumor-mri-images-44c)
 - **Total Images:** 44 classes with varying image counts (ranging from 31 to 43 images per class)
-
+  
 ### Classes
 1. Neurocitoma T1C+
 2. Meduloblastoma T1C+
